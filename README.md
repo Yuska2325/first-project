@@ -26,3 +26,4 @@ This is a simple code that generates random passwords based on user preferences.
 5. The generated password will be displayed in the terminal.
 
 ## Example
+![Uploading Screenshot 2026-01-20 230828.png…]()
